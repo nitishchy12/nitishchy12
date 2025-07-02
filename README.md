@@ -1,88 +1,79 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar Choudhary</h1>
-<h3 align="center">Aspiring Software Engineer | Backend Developer | DSA Learner</h3>
+
+<p align="center">
+  <b>Aspiring Software Engineer | Python & Django Developer | DSA & ML Enthusiast</b><br>
+  <b>Learning one commit at a time 💻</b>
+</p>
 
 ---
 
-### 💫 About Me
+🎯 **Currently learning:** DSA, Django for Backend Development  
+📘 **Practicing regularly on:**  
+[LeetCode](https://leetcode.com/u/nitish13_03/) | [GFG](https://www.geeksforgeeks.org/user/nitish3vk6/) | [CodeChef](https://www.codechef.com/users/nitishchy_12)  
+📫 **Email:** [nitishchy32@gmail.com](mailto:nitishchy32@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/nitishchoudhary12](https://www.linkedin.com/in/nitishchoudhary12/)  
 
-- 🌱 Currently learning **DSA** and **Django** for backend development  
-- 🔧 Building full-stack apps using **React + Django**  
-- ⚙️ Exploring **Docker**, **Jenkins**, and CI/CD pipelines  
-- 📫 Reach me at: [nitishchy32@gmail.com](mailto:nitishchy32@gmail.com)  
-- 📄 [View My Resume](https://drive.google.com/file/d/14Kx5JELNCCLIxlTur5eCl0GAWFo0wHO8/view?usp=drive_link)  
-- 🎯 Goal: Become a high-impact **Software Engineer**
+⚡ *"At the end everything is static."*
 
 ---
 
-### 🚀 Tech Stack
+## 📌 Projects Available At:
+➡️ [https://github.com/nitishchy12](https://github.com/nitishchy12)
+
+---
+
+<div align="center">
+  <img src="https://media.tenor.com/4Cz4N0i4f84AAAAC/cat-coding.gif" height="200" />
+</div>
+
+---
+
+## 🔧 Languages and Tools
+
+### 🧠 Machine Learning & Python Libraries
+<p>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+### 🖥️ Backend
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### 🧰 Tools & DevOps
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 My LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nitish13_03?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/nitish13_03/)
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=jenkins&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white"/>
-</p>
-
----
-
-### 🧠 Competitive Programming
-
-<table>
-  <tr>
-    <td>
-      <a href="https://leetcode.com/u/nitish13_03/">
-        <img src="https://leetcard.jacoblin.cool/nitish13_03?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
-      </a>
-    </td>
-    <td>
-      <a href="https://www.geeksforgeeks.org/user/nitish3vk6/">
-        <img src="https://img.shields.io/badge/GeeksforGeeks-nitish3vk6-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile"/>
-      </a>
-    </td>
-    <td>
-      <a href="https://www.codechef.com/users/nitishchy_12">
-        <img src="https://img.shields.io/badge/CodeChef-nitishchy_12-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-### 📂 Featured Projects
-
-- 🔐 **AI-Powered Resume Screener** – ML + OCR + Django (Major Project)  
-- 📈 **Stock Market App** – Real-time stock analysis with user portfolio (Django + SQLite)  
-- 🔧 **Django REST API Starter** – Auth, CRUD, DRF-based template  
-
-> 📌 *Pin your best 3–6 projects on GitHub so they appear on your profile!*
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nitishchy12&show_icons=true&theme=radical" alt="GitHub stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishchy12&theme=radical" alt="GitHub streak"/>
-</p>
-
----
-
-### 🌐 Connect With Me
-
-<p>
-  <a href="https://linkedin.com/in/nitishchoudhary12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:nitishchy32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/nitish13_03/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black"/></a>
-</p>
-
----
-
-<p align="center">
-  <i>“Start where you are. Use what you have. Do what you can.” – Arthur Ashe</i>
+  <a href="https://www.linkedin.com/in/nitishchoudhary12/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/nitish13_03/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
+  <a href="mailto:nitishchy32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
