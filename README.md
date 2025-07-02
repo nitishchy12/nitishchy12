@@ -10,7 +10,7 @@
 - ⚙️ Exploring **Docker**, **Jenkins**, and CI/CD pipelines  
 - 📫 Reach me at: [nitishchy32@gmail.com](mailto:nitishchy32@gmail.com)  
 - 📄 [View My Resume](https://drive.google.com/file/d/14Kx5JELNCCLIxlTur5eCl0GAWFo0wHO8/view?usp=drive_link)  
-- 🎯 Goal: Become a high-impact **Software Engineer**  
+- 🎯 Goal: Become a high-impact **Software Engineer**
 
 ---
 
@@ -30,13 +30,27 @@
 
 ---
 
-### 🧠 Competitive Programming Profiles
+### 🧠 Competitive Programming
 
-| Platform         | Profile Link |
-|------------------|--------------|
-| 💻 LeetCode       | [nitish13_03](https://leetcode.com/u/nitish13_03/) |
-| 📚 GeeksforGeeks  | [nitish3vk6](https://www.geeksforgeeks.org/user/nitish3vk6/) |
-| 👨‍💻 CodeChef       | [nitishchy_12](https://www.codechef.com/users/nitishchy_12) |
+<table>
+  <tr>
+    <td>
+      <a href="https://leetcode.com/u/nitish13_03/">
+        <img src="https://leetcard.jacoblin.cool/nitish13_03?theme=dark&font=baloo&ext=contest" alt="LeetCode Stats" />
+      </a>
+    </td>
+    <td>
+      <a href="https://www.geeksforgeeks.org/user/nitish3vk6/">
+        <img src="https://img.shields.io/badge/GeeksforGeeks-nitish3vk6-brightgreen?style=for-the-badge&logo=geeksforgeeks" alt="GFG Profile"/>
+      </a>
+    </td>
+    <td>
+      <a href="https://www.codechef.com/users/nitishchy_12">
+        <img src="https://img.shields.io/badge/CodeChef-nitishchy_12-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef Profile"/>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -46,7 +60,7 @@
 - 📈 **Stock Market App** – Real-time stock analysis with user portfolio (Django + SQLite)  
 - 🔧 **Django REST API Starter** – Auth, CRUD, DRF-based template  
 
-> *(Pin your best 3–6 projects on GitHub so they show up)*
+> 📌 *Pin your best 3–6 projects on GitHub so they appear on your profile!*
 
 ---
 
@@ -63,9 +77,6 @@
 
 <p>
   <a href="https://linkedin.com/in/nitishchoudhary12"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/nitish13_03/"><img src="https://img.shields.io/badge/LeetCode-F79F1B?style=flat&logo=leetcode&logoColor=white"/></a>
-  <a href="https://www.codechef.com/users/nitishchy_12"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat&logo=codechef&logoColor=white"/></a>
-  <a href="https://www.geeksforgeeks.org/user/nitish3vk6/"><img src="https://img.shields.io/badge/GFG-0F9D58?style=flat&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="mailto:nitishchy32@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white"/></a>
 </p>
 
