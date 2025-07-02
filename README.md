@@ -9,7 +9,7 @@
 
 🎯 **Currently learning:** DSA, Django Backend  
 📘 **Practicing on:**  
-[LeetCode](https://leetcode.com/u/nitish13_03/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/nitish3vk6/) | [CodeChef](https://www.codechef.com/users/nitishchy_12)  
+[LeetCode](https://leetcode.com/u/nitish13_03/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/nitish3vk6/) | [CodeChef](https://www.codechef.com/users/nitishchy_12) | [Codeforces](https://codeforces.com/profile/nitishchy32)  
 📫 **Email:** [nitishchy32@gmail.com](mailto:nitishchy32@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/nitishchoudhary12](https://www.linkedin.com/in/nitishchoudhary12/)  
 🧑‍💻 **All my projects:** [github.com/nitishchy12](https://github.com/nitishchy12)
@@ -85,6 +85,14 @@
 
 ---
 
+## 🐍 GitHub Contribution Snake
+
+<p align="center">
+  <img src="https://github.com/nitishchy12/nitishchy12/raw/output/github-contribution-grid-snake.svg" alt="snake gif" />
+</p>
+
+---
+
 ## 🔗 Connect With Me
 
 <p align="left">
@@ -92,5 +100,6 @@
   <a href="https://leetcode.com/u/nitish13_03/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
   <a href="https://www.geeksforgeeks.org/user/nitish3vk6/"><img src="https://img.shields.io/badge/-GFG-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
   <a href="https://www.codechef.com/users/nitishchy_12"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/nitishchy32"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
   <a href="mailto:nitishchy32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
