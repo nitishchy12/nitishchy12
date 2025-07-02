@@ -1,36 +1,32 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar Choudhary</h1>
 
 <p align="center">
-  <b>Aspiring Software Engineer | Python & Django Developer | DSA & ML Enthusiast</b><br>
+  <b>Passionate Backend Developer | Strong Understanding of DSA</b><br>
   <b>Learning one commit at a time 💻</b>
 </p>
 
 ---
 
-🎯 **Currently learning:** DSA, Django for Backend Development  
-📘 **Practicing regularly on:**  
-[LeetCode](https://leetcode.com/u/nitish13_03/) | [GFG](https://www.geeksforgeeks.org/user/nitish3vk6/) | [CodeChef](https://www.codechef.com/users/nitishchy_12)  
+🎯 **Currently learning:** DSA, Django Backend  
+📘 **Practicing on:**  
+[LeetCode](https://leetcode.com/u/nitish13_03/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/nitish3vk6/) | [CodeChef](https://www.codechef.com/users/nitishchy_12)  
 📫 **Email:** [nitishchy32@gmail.com](mailto:nitishchy32@gmail.com)  
 💼 **LinkedIn:** [linkedin.com/in/nitishchoudhary12](https://www.linkedin.com/in/nitishchoudhary12/)  
+🧑‍💻 **All my projects:** [github.com/nitishchy12](https://github.com/nitishchy12)
 
-⚡ *"At the end everything is static."*
-
----
-
-## 📌 Projects Available At:
-➡️ [https://github.com/nitishchy12](https://github.com/nitishchy12)
+⚡ *At the end, everything is static.*
 
 ---
 
 <div align="center">
-  <img src="https://media.tenor.com/4Cz4N0i4f84AAAAC/cat-coding.gif" height="200" />
+  <img src="https://media.tenor.com/4Cz4N0i4f84AAAAC/cat-coding.gif" height="200"/>
 </div>
 
 ---
 
-## 🔧 Languages and Tools
+## 🧰 Languages & Tools
 
-### 🧠 Machine Learning & Python Libraries
+### 📊 Python Libraries & ML Tools
 <p>
   <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
@@ -38,7 +34,7 @@
   <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
 </p>
 
-### 🖥️ Backend
+### 🖥️ Backend Development
 <p>
   <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
@@ -53,7 +49,7 @@
   <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
 </p>
 
-### 🧰 Tools & DevOps
+### ⚙️ DevOps & Tools
 <p>
   <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
@@ -64,9 +60,28 @@
 
 ---
 
-## 📊 My LeetCode Stats
+## 📊 LeetCode Stats
 
 [![LeetCode Stats](https://leetcard.jacoblin.cool/nitish13_03?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/nitish13_03/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishchy12&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishchy12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 📈 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-contribution-graph.ez4o.com/?username=nitishchy12&theme=github-dark&radius=6&size=small" />
+</p>
 
 ---
 
@@ -75,5 +90,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/nitishchoudhary12/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
   <a href="https://leetcode.com/u/nitish13_03/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/nitish3vk6/"><img src="https://img.shields.io/badge/-GFG-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/nitishchy_12"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
   <a href="mailto:nitishchy32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
