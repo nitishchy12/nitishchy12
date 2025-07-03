@@ -1,37 +1,89 @@
 <h1 align="center">Hi 👋, I'm Nitish Kumar Choudhary</h1>
-<h3 align="center">Passionate Backend Developer | Good Knowledge of DSA</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nitishchy12&label=Profile%20views&color=0e75b6&style=flat" alt="nitishchy12" /> </p>
-
-- 🔭 I’m currently working on **Web Projects**
-
-- 🌱 I’m currently learning **Backend technologies and improving my DSA skills**
-
-- 📫 How to reach me **nitishchy121999@gmail.com**
-
-- ⚡ Fun fact **I love exploring new tech**
-
----
-
-### 🧑‍💻 Connect with me
-
-<p align="left">
-<a href="https://linkedin.com/in/nitishchy12" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="nitishchy12" height="20" width="30" /></a>
-<a href="https://codeforces.com/profile/nitishchy32" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codeforces.svg" alt="codeforces" height="20" width="30" /></a>
+<p align="center">
+  <b>Passionate Backend Developer | Strong Understanding of DSA</b><br>
+  <b>Learning one commit at a time 💻</b>
 </p>
 
 ---
 
-### 🛠️ Languages and Tools
+🎯 **Currently learning:** DSA, Django Backend  
+📘 **Practicing on:**  
+[LeetCode](https://leetcode.com/u/nitish13_03/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/nitish3vk6/) | [CodeChef](https://www.codechef.com/users/nitishchy_12) | [Codeforces](https://codeforces.com/profile/nitishchy32)  
+📫 **Email:** [nitishchy32@gmail.com](mailto:nitishchy32@gmail.com)  
+💼 **LinkedIn:** [linkedin.com/in/nitishchoudhary12](https://www.linkedin.com/in/nitishchoudhary12/)  
+🧑‍💻 **All my projects:** [github.com/nitishchy12](https://github.com/nitishchy12)
+
+⚡ *At the end, everything is static.*
+
+---
+
+<div align="center">
+  <img src="https://media.tenor.com/4Cz4N0i4f84AAAAC/cat-coding.gif" height="200"/>
+</div>
+
+---
+
+## 🧰 Languages & Tools
+
+### 📊 Python Libraries & ML Tools
+<p>
+  <img src="https://img.shields.io/badge/-Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/-NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" />
+</p>
+
+### 🖥️ Backend Development
+<p>
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/-DRF-ff1709?style=for-the-badge&logo=django&logoColor=white" />
+</p>
+
+### 🌐 Frontend
+<p>
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+</p>
+
+### ⚙️ DevOps & Tools
+<p>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" />
+  <img src="https://img.shields.io/badge/-VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+</p>
+
+---
+
+## 📊 LeetCode Stats
+
+[![LeetCode Stats](https://leetcard.jacoblin.cool/nitish13_03?theme=dark&font=baloo&ext=contest)](https://leetcode.com/u/nitish13_03/)
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nitishchy12&show_icons=true&theme=tokyonight" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nitishchy12&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🔗 Connect With Me
 
 <p align="left">
- <a href="https://www.cplusplus.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
- <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
- <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
- <a href="https://getbootstrap.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a>
- <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a>
- <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
+  <a href="https://www.linkedin.com/in/nitishchoudhary12/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/nitish13_03/"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black"/></a>
+  <a href="https://www.geeksforgeeks.org/user/nitish3vk6/"><img src="https://img.shields.io/badge/-GFG-0F9D58?style=flat-square&logo=geeksforgeeks&logoColor=white"/></a>
+  <a href="https://www.codechef.com/users/nitishchy_12"><img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white"/></a>
+  <a href="https://codeforces.com/profile/nitishchy32"><img src="https://img.shields.io/badge/-Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white"/></a>
+  <a href="mailto:nitishchy32@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
