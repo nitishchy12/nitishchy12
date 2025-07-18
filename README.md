@@ -7,7 +7,7 @@
 
 ---
 
-🎯 **Currently learning:** DSA, Django Backend  
+🎯 **Currently learning:** DSA
 📘 **Practicing on:**  
 [LeetCode](https://leetcode.com/u/nitish13_03/) | [GeeksforGeeks](https://www.geeksforgeeks.org/user/nitish3vk6/) | [CodeChef](https://www.codechef.com/users/nitishchy_12) | [Codeforces](https://codeforces.com/profile/nitishchy32)  
 📫 **Email:** [nitishchy32@gmail.com](mailto:nitishchy32@gmail.com)  
